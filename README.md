@@ -10,6 +10,13 @@ The App was built ***Programmatically*** without Storyboard.
 - A simple login screen.
 - A personalized home screen that **presents** the photo that was taken. a button that navigates to the Camera View for the user to **take photos**, and another button that will be visiable after the photo has been taken, that **saves the photo** to the user's Camera Roll.
 
+
+### Opportunities to improve the project :
+- ***Save*** the photos in a CollectionView
+- Make the data ***Persistant.***
+- Implement ***AutoLayout.*** 
+
+
 ## App UI's
 
 <a href="url"><img src="https://user-images.githubusercontent.com/92252941/144721377-ec2eebc6-04dd-4941-b3e4-6c9b46601d19.PNG" align="left" height="560" width="280" ></a>
